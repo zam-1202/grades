@@ -1,0 +1,14 @@
+body, html{
+    height: 100%;
+    width: 100%;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #013328;
+    overflow-x: hidden;
+}
+
+.container{
+    color:#e3dcd2;
+    text-align: center;
+    margin-top: 300px;
+}
